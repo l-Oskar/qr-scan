@@ -1,7 +1,7 @@
 {
   "name": "qr-scan",
   "version": "0.1.0",
-  "homepage": "https://{username}.github.io/{repo-name}",
+  "homepage": "https://{username}.github.io/{repo-name}/public/index.html",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
